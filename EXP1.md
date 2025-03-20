@@ -14,16 +14,21 @@ Cases
 4.  the program with possible test cases.
 5. Stop the program.
 ### Program:
-1 ![1](https://github.com/user-attachments/assets/e1315541-bd36-4a40-87f7-142b63441278)
-  
-2 ![2](https://github.com/user-attachments/assets/f2b3a1a9-f4a8-4fec-bd5a-0f291694ba15)
-  
-3 ![3](https://github.com/user-attachments/assets/81e55960-da78-4865-a274-865c3506effe)
 
-4 ![4](https://github.com/user-attachments/assets/f8dfdbfd-6ac6-4706-9479-ba28ec3e0ae3)
- 
-5 ![5](https://github.com/user-attachments/assets/2b0293b7-4168-4e8c-8cf8-5c93e1e04dc4)
-  
+do while ![do while](https://github.com/user-attachments/assets/67fb81a9-c22c-451b-a353-398ae5248c6f)
+
+while do ![while do](https://github.com/user-attachments/assets/2fc6f108-277a-437a-9151-602ebc51d16f)
+
+switch ![switch](https://github.com/user-attachments/assets/1b6bbd44-dfd0-4238-9822-9f71e13064c1)
+
+if else ![if else](https://github.com/user-attachments/assets/416a0e56-e2f2-49d3-8656-7aeb85e1d4fb)
+
+for ![for](https://github.com/user-attachments/assets/4dd160f0-c196-4820-8b9c-6adb7d723ba0)
+
+
+
+
+
 
 
 
@@ -53,11 +58,17 @@ Cases
 
 ### Output:
 
-1 ![1- o](https://github.com/user-attachments/assets/4b2d799d-5764-4c5a-abd7-2728f5b3a893)
-2 ![2-o](https://github.com/user-attachments/assets/f12e879d-7247-46d6-9f1e-624c1bb56dc1)
-3 ![3-o](https://github.com/user-attachments/assets/6253305b-102c-4e18-87ab-0ff72e853d4e)
-4 ![4-o](https://github.com/user-attachments/assets/264cad66-c074-482f-b629-1739376c02b1)
-5 ![5-o](https://github.com/user-attachments/assets/cf65b714-3ce3-4c8e-a83b-72b685aee715)
+do while output ![do while output](https://github.com/user-attachments/assets/c99a89f5-d955-48fc-a684-32cd9b8517ce)
+while do output ![while do output](https://github.com/user-attachments/assets/664775ac-100f-4ec9-a53e-6c638ce37d86)
+switch output  ![switch output](https://github.com/user-attachments/assets/4218a69b-5284-4058-aa27-1ef2737b745e)
+if else output ![if else output](https://github.com/user-attachments/assets/770277dd-b96c-43d0-bdfa-64ea2996a83b)
+for output ![for output](https://github.com/user-attachments/assets/3ec7bf9d-361e-4135-a4c6-ef2dde44c2cf)
+
+
+
+
+
+
 
 
 
