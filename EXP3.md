@@ -17,6 +17,7 @@ Write a python program to check the number is prime or not and inspect for failu
 
 ### Program:
 
+![experminet 3](https://github.com/user-attachments/assets/70863068-8723-41ae-9810-79fc1e1d1200)
 
 
 
@@ -31,6 +32,7 @@ Write a python program to check the number is prime or not and inspect for failu
 
 ### Output:
 
+![Uploading exp 3- op.png…]()
 
 
 
