@@ -32,7 +32,8 @@ Write a python program to check the number is prime or not and inspect for failu
 
 ### Output:
 
-![Uploading exp 3- op.png…]()
+![exp 3- op](https://github.com/user-attachments/assets/3b7a1955-44e2-4379-a387-da232a8b0622)
+
 
 
 
