@@ -17,6 +17,7 @@ Algorithm:
 6. Stop the program.
 ### Program:
 
+![experiment 2](https://github.com/user-attachments/assets/0050187f-5542-4240-b809-d149e0cc31cb)
 
 
 
@@ -30,6 +31,9 @@ Algorithm:
 
 
 ### Output:
+
+![exp 2- op](https://github.com/user-attachments/assets/4079d189-d712-46dc-9eb8-0facfda41084)
+![exp2 op](https://github.com/user-attachments/assets/0d1e10e0-54f7-4e5d-9448-42996aaaf9b5)
 
 
 
