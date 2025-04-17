@@ -15,6 +15,7 @@ Write a python program to check the number is Armstrong number or not and inspec
 
 ### Program:
 
+![Screenshot 2025-04-17 084021](https://github.com/user-attachments/assets/175fa329-d11f-4e54-829d-d0b64062e194)
 
 
 
@@ -28,6 +29,7 @@ Write a python program to check the number is Armstrong number or not and inspec
 
 
 ### Output:
+![Screenshot 2025-04-17 084004](https://github.com/user-attachments/assets/32a20a92-d001-400f-81d1-98e2aac23deb)
 
 
 
