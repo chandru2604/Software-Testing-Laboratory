@@ -15,6 +15,7 @@ Write a Python program to check whether the string is Palindrome and generate te
 ### Program:
 
 
+![Screenshot 2025-05-07 162622](https://github.com/user-attachments/assets/e3ab3a82-64af-4202-805a-f7ad4125956d)
 
 
 
@@ -26,6 +27,7 @@ Write a Python program to check whether the string is Palindrome and generate te
 
 
 ### Output:
+![Screenshot 2025-05-07 162641](https://github.com/user-attachments/assets/118329fb-9536-4fcb-b949-48eba75778b0)
 
 
 
